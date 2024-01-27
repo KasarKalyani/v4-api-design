@@ -6,7 +6,7 @@ generator client {
 }
 
 datasource db {
-   url      = ${postgres_url}
+   url      = "postgres://firstdatabase_xsvh_user:uQkQslVR5IFHVLF64cSRuJ9GQAESuIhG@dpg-cmegqgacn0vc73bnpfag-a.oregon-postgres.render.com/firstdatabase_xsvh"
    provider = "postgres"
 }
 
