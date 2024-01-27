@@ -1,4 +1,4 @@
 declare const _default: {
-    port: number;
+    port: string;
 };
 export default _default;
